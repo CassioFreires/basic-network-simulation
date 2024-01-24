@@ -56,6 +56,6 @@ Contribuições são bem-vindas! Sinta-se à vontade para propor melhorias, corr
 
 - nome: Cassio souza
 - Email: cassio_souza@live.com
-- Linkedin: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white)]([https://www.linkedin.com/in/seu_nome_no_linkedin/](https://www.linkedin.com/in/cassio-souza-08347a157/)
+- Linkedin: !LinkedIn(https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white)]([https://www.linkedin.com/in/seu_nome_no_linkedin/](https://www.linkedin.com/in/cassio-souza-08347a157/)
 
 Developer by cassio souza 2024.
