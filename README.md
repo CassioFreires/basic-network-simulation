@@ -56,6 +56,6 @@ Contribuições são bem-vindas! Sinta-se à vontade para propor melhorias, corr
 
 - nome: Cassio souza
 - Email: cassio_souza@live.com
-<a href="https://www.linkedin.com/in/cassio-souza-08347a157/" target="_blank"></a> 
+- Likendin: <a href="https://www.linkedin.com/in/cassio-souza-08347a157/" target="_blank"></a> 
 
 Developer by cassio souza 2024.
