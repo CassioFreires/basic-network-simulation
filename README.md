@@ -32,7 +32,7 @@ A comunicação ocorre da seguinte forma:
 4. PC_4: IP 192.168.0.5, Máscara de Sub-rede 255.255.255.0, Getwey Default 192.168.0.1
 5. PC_5: IP 192.168.0.6, Máscara de Sub-rede 255.255.255.0, Getwey Default 192.168.0.1
 
-### Servidor do Google
+### Servidores
 
 1. SERVIDOR_GOOGLE: IP 8.1.1.1, Máscara de Sub-rede 255.0.0.0, Getwey Default 8.8.8.1
 2. SERVIDOR_DNS: IP 8.1.0.0,  Máscara de Sub-rede 255.0.0.0, Getwey Default 8.8.8.1
