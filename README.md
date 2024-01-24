@@ -13,13 +13,14 @@ A topologia da rede é composta pelos seguintes elementos:
 - 2 Switches
 - 5 Dispositivos Finais (PCs, laptops, etc.)
 - 1 Servidor do Google
+- 1 Servidor DNS
 
 A comunicação ocorre da seguinte forma:
 
 - Os dispositivos finais estão conectados a um switch.
 - O switch está conectado a um roteador.
 - O roteador encaminha os dados para outra rede de destino.
-- Um segundo switch está conectado a um servidor do Google.
+- Um segundo switch está conectado a um servidor do Google e DNS.
 
 ## Configuração da Rede
 
@@ -33,7 +34,8 @@ A comunicação ocorre da seguinte forma:
 
 ### Servidor do Google
 
-6. SERVIDOR_GOOGLE: IP 8.1.1.1, Máscara de Sub-rede 255.0.0.0, Getwey Default 8.8.8.1
+1. SERVIDOR_GOOGLE: IP 8.1.1.1, Máscara de Sub-rede 255.0.0.0, Getwey Default 8.8.8.1
+2. SERVIDOR_DNS: IP 8.1.0.0,  Máscara de Sub-rede 255.0.0.0, Getwey Default 8.8.8.1
 
 ###  Switches
 1. Switch_1: Rede dos dispositivos finais
