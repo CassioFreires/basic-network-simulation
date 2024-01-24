@@ -3,7 +3,7 @@
 ## Descrição do Projeto
 
 Este projeto consiste em uma simulação básica de rede, utilizando o Cisco Packet Tracer, com o objetivo de demonstrar a comunicação entre dispositivos finais, switches e roteadores.
-(https://github.com/CassioFreires/basic-network-simulation/blob/main/rede.png)
+<img src="https://github.com/CassioFreires/basic-network-simulation/blob/main/rede.png" />
 
 ## Topologia da Rede em árvore
 
@@ -56,6 +56,6 @@ Contribuições são bem-vindas! Sinta-se à vontade para propor melhorias, corr
 
 - nome: Cassio souza
 - Email: cassio_souza@live.com
-- Linkedin: !LinkedIn(https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white)]([https://www.linkedin.com/in/seu_nome_no_linkedin/](https://www.linkedin.com/in/cassio-souza-08347a157/)
+<a href="https://www.linkedin.com/in/cassio-souza-08347a157/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 Developer by cassio souza 2024.
